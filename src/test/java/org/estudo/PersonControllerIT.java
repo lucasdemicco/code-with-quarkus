@@ -3,6 +3,6 @@ package org.estudo;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-class GreetingResourceIT extends GreetingResourceTest {
+class PersonControllerIT extends PersonControllerTest {
     // Execute the same tests but in packaged mode.
 }
